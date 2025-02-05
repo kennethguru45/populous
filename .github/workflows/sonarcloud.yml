@@ -24,8 +24,8 @@ jobs:
         with:
         
           args:
-            -Dsonar.projectKey=
-            -Dsonar.organization=
+            -Dsonar.projectKey=kennethguru45_populous
+            -Dsonar.organization=kennethguru45
             -Dsonar.sources=default
             -Dsonar.tests=true
             -Dsonar.verbose=true
