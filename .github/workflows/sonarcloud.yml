@@ -26,6 +26,5 @@ jobs:
           args:
             -Dsonar.projectKey=kennethguru45_populous
             -Dsonar.organization=kennethguru45
-            -Dsonar.sources=default
             -Dsonar.verbose=true
           projectBaseDir: .
